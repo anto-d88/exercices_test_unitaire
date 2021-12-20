@@ -2,7 +2,7 @@ import chai from "chai";
 
 const assert = chai.assert;
 
-import { loop } from "../01KATA/index.js"
+import { loop } from "../01KATA/looping.js"
 
 describe("#loop()", function(){
 
